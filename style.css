@@ -1,0 +1,22 @@
+/*body{
+    background-color: aqua;
+}*/
+
+/* #res-form{
+    /* display: none; 
+} */
+
+#res-template{
+    display: none;
+}
+.myimg{
+    /* border: 1px solid blue; */
+    border-radius: 10%;
+    height: 200px;
+    width: 200px;
+
+}
+.background{
+    background-color: burlywood;
+
+}
